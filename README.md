@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
     <img src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif" width="200" />
     <h1 align="center">### Hi there 👋, I am Diego JP</h1>
-    <h3 align="center">I am an entusiast of web development, I have been working most of my carren managing projects but now I want to turn my carrer into web development.
+    <h3 align="center">I am an ardent enthusiast of web development, having dedicated a substantial portion of my professional journey to proficiently managing projects. However, I am now wholeheartedly committed to embarking on a new chapter in my career, centered around web development. With a passion for coding and a zest for creativity, I am ready to harness my skills and make a meaningful impact in the dynamic realm of web development. So, fasten your seatbelts, because I am about to embark on an exhilarating journey of designing and crafting exceptional web experiences!
          </h3>
 </div>
