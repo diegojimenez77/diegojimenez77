@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 ---
 
-### My Stats :
+###  &#128202; My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegojimenez77&theme=dark)](https://git.io/streak-stats)
