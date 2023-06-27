@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### About Me:
 - 🔭 I’m currently working on personal development projects to help me transition my carreer.
 - 🤔 I completed a Full Stack coding bootcamp from Trilogy Education on August 2022.
-- 🌱 I’m currently sharpening my skills with React.js with Vite.js**
+- 🌱 I’m currently sharpening my skills with React.js and Vite.js**
 - 📫 How to reach me: **jimpez.diego@gmail.com**
   
 ---
