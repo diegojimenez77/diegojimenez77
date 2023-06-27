@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+    <img src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif" width="200" />
+    <h1 align="center">### Hi there 👋, I am Diego JP</h1>
+    <h3 align="center">I am an entusiast of web development, I have been working most of my carren managing projects but now I want to turn my carrer into web development.
+         </h3>
+</div>
