@@ -48,3 +48,9 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40" />
     </div>
 </div>
+
+---
+
+### My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=diegojimenez77&theme=dark)](https://git.io/streak-stats)
