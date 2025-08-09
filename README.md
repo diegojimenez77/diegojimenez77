@@ -37,13 +37,10 @@ Here are some ideas to get you started:
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" width="40" height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" width="40" height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" width="40" height="40" />
+height="40" />
+height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="node" width="40" height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Exoress" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="Mongo" width="40" height="40" />
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="Jquery" width="40" height="40" />
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" width="40" height="40" />
     </div>
 </div>
